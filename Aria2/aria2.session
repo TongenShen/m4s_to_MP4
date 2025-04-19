@@ -1,0 +1,101 @@
+https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/53/21/7842153/7842153_da8-1-100024.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&platform=pc&mid=351961863&os=bdbv&og=hw&oi=0x24098a34463167613c5c2effa3d63e8d&trid=99ba2508103149a5ad6c12c529ff6d5p&deadline=1745086504&tag=&nbs=1&gen=playurlv3&upsig=d439b7ff4fa21087364d2be2f5d4f231&uparams=e,uipk,platform,mid,os,og,oi,trid,deadline,tag,nbs,gen&bvc=vod&nettype=0&bw=402922&agrr=0&buvid=AAD8E2F9-8612-F791-5BE9-E9A9EDA331E807405infoc&build=0&dl=0&f=p_0_0&orderid=0,3	
+ gid=bdd27b495d8b0f3d
+ out=7842153_da8-1-100024.m4s
+ header=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+ header=Referer: https://www.bilibili.com/bangumi/play/ep50190?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
+https://upos-sz-estgcos.bilivideo.com/upgcxcode/53/21/7842153/7842153_da8-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&tag=&gen=playurlv3&os=upos&uipk=5&oi=0x24098a34463167613c5c2effa3d63e8d&trid=99ba2508103149a5ad6c12c529ff6d5p&mid=351961863&deadline=1745086504&nbs=1&og=cos&platform=pc&upsig=492e860dc0b4e215d30dbc971444d234&uparams=e,tag,gen,os,uipk,oi,trid,mid,deadline,nbs,og,platform&bvc=vod&nettype=0&bw=65601&dl=0&f=p_0_0&agrr=0&buvid=AAD8E2F9-8612-F791-5BE9-E9A9EDA331E807405infoc&build=0&orderid=0,3	
+ gid=de6629d9936abadf
+ out=7842153_da8-1-30232.m4s
+ header=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+ header=Referer: https://www.bilibili.com/bangumi/play/ep50190?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
+https://upos-sz-estgcos.bilivideo.com/upgcxcode/53/21/7842153/7842153_da8-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&tag=&gen=playurlv3&os=upos&uipk=5&oi=0x24098a34463167613c5c2effa3d63e8d&trid=99ba2508103149a5ad6c12c529ff6d5p&mid=351961863&deadline=1745086504&nbs=1&og=cos&platform=pc&upsig=492e860dc0b4e215d30dbc971444d234&uparams=e,tag,gen,os,uipk,oi,trid,mid,deadline,nbs,og,platform&bvc=vod&nettype=0&bw=65601&dl=0&f=p_0_0&agrr=0&buvid=AAD8E2F9-8612-F791-5BE9-E9A9EDA331E807405infoc&build=0&orderid=0,3	
+ gid=097a7da2049629a7
+ timeout=60
+ connect-timeout=60
+ max-tries=5
+ dir=C:\Users\Tonge\Desktop\Neo\Data
+ out=7842153_da8-1-30232.m4s
+ split=16
+ lowest-speed-limit=0
+ piece-length=1048576
+ max-download-limit=0
+ file-allocation=falloc
+ no-file-allocation-limit=5242880
+ allow-overwrite=false
+ realtime-chunk-checksum=true
+ check-integrity=false
+ continue=true
+ no-netrc=false
+ auto-file-renaming=true
+ parameterized-uri=false
+ allow-piece-length-change=false
+ async-dns=true
+ uri-selector=feedback
+ remote-time=false
+ max-file-not-found=0
+ rpc-save-upload-metadata=true
+ dry-run=false
+ reuse-uri=true
+ remove-control-file=false
+ always-resume=true
+ max-resume-failure-tries=0
+ max-connection-per-server=16
+ min-split-size=10485760
+ conditional-get=false
+ retry-wait=0
+ stream-piece-selector=default
+ hash-check-only=false
+ enable-mmap=false
+ force-save=false
+ save-not-found=true
+ pause-metadata=false
+ max-mmap-limit=9223372036854775807
+ ftp-type=binary
+ ftp-pasv=true
+ ftp-reuse-connection=true
+ user-agent=Transmission/2.77
+ enable-http-keep-alive=true
+ enable-http-pipelining=false
+ header=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+ header=Referer: https://www.bilibili.com/bangumi/play/ep50190?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
+ use-head=false
+ http-auth-challenge=false
+ http-no-cache=false
+ http-accept-gzip=false
+ content-disposition-default-utf8=false
+ no-want-digest-header=false
+ proxy-method=get
+ max-upload-limit=0
+ follow-torrent=true
+ seed-ratio=0
+ enable-peer-exchange=false
+ bt-min-crypto-level=plain
+ bt-require-crypto=false
+ bt-request-peer-speed-limit=51200
+ bt-seed-unverified=true
+ bt-hash-check-seed=true
+ bt-max-peers=55
+ bt-tracker-interval=0
+ bt-stop-timeout=0
+ bt-save-metadata=true
+ bt-metadata-only=false
+ bt-enable-lpd=false
+ bt-tracker-timeout=60
+ bt-tracker-connect-timeout=60
+ bt-remove-unselected-file=false
+ bt-force-encryption=false
+ bt-enable-hook-after-hash-check=true
+ bt-load-saved-metadata=false
+ follow-metalink=true
+ metalink-preferred-protocol=none
+ metalink-enable-unique-protocol=true
+https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/53/21/7842153/7842153_da8-1-100024.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&gen=playurlv3&og=hw&mid=351961863&deadline=1745086565&nbs=1&trid=e27de8bcf1ba43da8cd16410dba8117p&os=bdbv&tag=&oi=0x24098a34463167613c5c2effa3d63e8d&uipk=5&platform=pc&upsig=a184be4a5d36daea914ed5b0012ef07f&uparams=e,gen,og,mid,deadline,nbs,trid,os,tag,oi,uipk,platform&bvc=vod&nettype=0&bw=402922&buvid=AAD8E2F9-8612-F791-5BE9-E9A9EDA331E807405infoc&build=0&dl=0&f=p_0_0&agrr=0&orderid=0,3	
+ gid=a8f633a50c03530c
+ out=7842153_da8-1-100024.m4s
+ header=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+ header=Referer: https://www.bilibili.com/bangumi/play/ep50190?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
+https://upos-sz-estgcos.bilivideo.com/upgcxcode/53/21/7842153/7842153_da8-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&os=upos&mid=351961863&deadline=1745086565&tag=&oi=0x24098a34463167613c5c2effa3d63e8d&platform=pc&trid=e27de8bcf1ba43da8cd16410dba8117p&gen=playurlv3&og=cos&nbs=1&uipk=5&upsig=560f31f4f358c4e64f7979e3e677a3db&uparams=e,os,mid,deadline,tag,oi,platform,trid,gen,og,nbs,uipk&bvc=vod&nettype=0&bw=65601&f=p_0_0&agrr=0&buvid=AAD8E2F9-8612-F791-5BE9-E9A9EDA331E807405infoc&build=0&dl=0&orderid=0,3	
+ gid=c698f4f811c837ae
+ out=7842153_da8-1-30232.m4s
+ header=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+ header=Referer: https://www.bilibili.com/bangumi/play/ep50190?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
